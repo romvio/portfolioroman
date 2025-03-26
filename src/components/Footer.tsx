@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <div>
             <p className="font-display text-xl font-medium">
-              <span className="text-primary">M</span>iguel
+              <span className="text-primary">R</span>omán
             </p>
           </div>
           
@@ -34,7 +34,7 @@ const Footer = () => {
               GitHub
             </a>
             <a 
-              href="mailto:miguel@example.com" 
+              href="mailto:roman@example.com" 
               className="text-foreground/70 hover:text-primary transition-colors"
               aria-label="Email"
             >
@@ -45,7 +45,7 @@ const Footer = () => {
         
         <div className="mt-8 pt-8 border-t border-foreground/10 text-center text-sm text-foreground/60">
           <p className="flex items-center justify-center gap-1">
-            Made with <Heart size={14} className="text-primary" /> | &copy; {currentYear} Miguel Rodríguez
+            Made with <Heart size={14} className="text-primary" /> | &copy; {currentYear} Román Villarreal
           </p>
         </div>
       </div>

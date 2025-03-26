@@ -40,7 +40,7 @@ const Navbar = () => {
     >
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <a href="#home" className="font-display text-2xl font-bold">
-          <span className="text-primary">M</span>iguel
+          <span className="text-primary">R</span>omán
         </a>
 
         {/* Desktop Navigation */}
