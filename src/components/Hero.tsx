@@ -7,7 +7,7 @@ const Hero = () => {
       {/* Background Banner */}
       <div className="absolute inset-0 -z-10">
         <img 
-          src="/images/portfolio/hero-banner.png" 
+          src="/lovable-uploads/f2a04183-a1ec-4307-9572-228a1a817510.png" 
           alt="Engineering designs" 
           className="w-full h-full object-cover"
         />
@@ -40,7 +40,7 @@ const Hero = () => {
             <div className="relative">
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white shadow-lg">
                 <img 
-                  src="/images/portfolio/profile.png" 
+                  src="/lovable-uploads/4697515a-6314-4876-af0d-d2f8c355934a.png" 
                   alt="Román Villarreal"
                   className="w-full h-full object-cover"
                 />
